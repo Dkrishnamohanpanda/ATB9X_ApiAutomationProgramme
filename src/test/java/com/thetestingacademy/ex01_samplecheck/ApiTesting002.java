@@ -1,4 +1,4 @@
-package com.thetestingacademy.ex_samplecheck;
+package com.thetestingacademy.ex01_samplecheck;
 
 import io.restassured.RestAssured;
 

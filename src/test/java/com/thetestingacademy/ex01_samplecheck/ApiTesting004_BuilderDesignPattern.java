@@ -1,4 +1,4 @@
-package com.thetestingacademy.ex_samplecheck;
+package com.thetestingacademy.ex01_samplecheck;
 
 public class ApiTesting004_BuilderDesignPattern {
     public ApiTesting004_BuilderDesignPattern step1(){
